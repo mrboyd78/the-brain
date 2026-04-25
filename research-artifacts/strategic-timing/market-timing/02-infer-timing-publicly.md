@@ -1,0 +1,39 @@
+# How Can Public Evidence Be Used to Infer Market Timing?
+
+## 1. Executive Thesis
+Founders frequently attribute "Market Timing" to pure intuition, luck, or closely guarded internal VC data. This is a fatal misconception. Market timing leaves massive, deeply quantifiable public wakes. A category progressing from "Early Adopter Sandbox" to "Enterprise Maturity" to "Commoditized Bloat" is explicitly broadcast through the changing topography of competitors' pricing pages, the shifting vocabulary of their developer docs, and the frantic hiring signals on their career pages. By systematically indexing these public artifacts, a founder can forensically deduce whether a market window is violently swinging open, quietly calcifying, or permanently shutting. True timing analysis is not predicting the future; it is merely reading the very loud signals of the present.
+
+## 2. What the Evidence Shows
+By auditing the public evolution of rapidly maturing categories (like the 2020-2023 explosion in Headless CMS or the modern vector database surge), clear, chronological public signals emerge:
+*   **The "Hobbyist to Governance" Vocabulary Shift:** Early in a market (Window Open), competitors' homepages use words like "Fast," "Simple," "Magic," and "Developer-Friendly." As the market matures (Window Closing), the exact same competitors silently update their H1s to emphasize "Secure," "Governance," "Audit-Ready," and "Enterprise Grade." When the vocabulary of the top 3 incumbents shifts from speed to legal liability, the easy top-of-funnel acquisition phase has ended. The market demands complex bureaucracy.
+*   **The "Contact Sales" Omission:** Track the pricing pages of the market leaders over 24 months (using the Wayback Machine). Early on, margins are chaotic and prices are publicly listed. When the top 3 incumbents simultaneously remove their top-tier public pricing and replace it with "Contact Sales," it proves the category has achieved mainstream Enterprise acceptance. The incumbents now possess enough leverage to extract massive, opaque, custom ACVs. The "cheap" phase of the market is over.
+*   **The Integration Desperation Ratio:** In a nascent market, a startup will proudly list "We integrate with Slack and Google Drive." In a peaking market, the incumbent's integration page lists 400 highly obscure ERPs and legacy databases. The older the integrations they promote, the deeper into the late-majority timeline the category has drifted.
+
+## 3. Best Public Signals of Market Timing
+1.  **Job Board Forensics (The Talent Pivot):** If the leading 5 competitors in a space are aggressively hiring "Growth Marketers" and "Developer Advocates," the market is in the explosive land-grab phase (Favorable Timing). If they are aggressively hiring "VP of Partnerships," "Enterprise Success Managers," and "Compliance Officers," the land-grab is over, and the trench-warfare retention phase has begun (Late Timing).
+2.  **The "Unsolved Complaint" Review Consistency:** Mine 10,000 G2/Capterra reviews across the top incumbents. If users have been complaining about the *exact same* fundamental architectural flaw for 3 consecutive years (e.g., "The reporting module is so slow"), and the massive, heavily funded incumbent still hasn't fixed it, that specific vulnerability represents a wide-open Timing Window for a specialized, verticalized attack.
+3.  **The 'Platform Annexation' Signal:** Monitor the changelogs of massive Host Platforms (Apple, Salesforce). The moment a Host Platform announces a native feature that slightly overlaps with your target category, it signals the category is definitively validated, but the timing window for horizontal, undifferentiated entry has instantly closed.
+
+## 4. Weak or Misleading Signals
+*   **Headline Noise & TechCrunch Funding Announcements:** A competitor raising a $100M Series C is frequently interpreted as "The market is too crowded; I am too late." This is false. Massive late-stage funding rounds often signal the incumbent is becoming slow, bloated, and desperate to buy revenue to justify their valuation. Their bloat expands the timing window for a lean, fast disruptor.
+*   **Trade Show "Buzz":** If a specific technology (e.g., "Metaverse" in 2021) dominates every keynote at every major industry conference, the timing is not "perfect"—it is structurally artificially inflated. Conference hype usually precedes a massive, agonizing "Trough of Disillusionment" by 18 months.
+*   **"We Have No Competitors":** If you cannot find a single public competitor aggressively marketing a solution to the pain point, the timing is not "Early." The timing is likely "Never." The market physically does not exist, or the pain is not severe enough to monetize. 
+
+## 5. A Repeatable Market-Timing Inference Framework
+1.  **The Wayback Audit:** Use the Internet Archive to track the homepage messaging of the 3 largest incumbents linearly over the last 36 months. Map the exact quarter their language shifted from "Speed/Innovation" to "Security/Scale".
+2.  **The Churn-Vector Analysis:** Comb public forums (Reddit, HackerNews) to analyze *why* users claim to be leaving the incumbents. If they are leaving because "It's too expensive," the market has matured into full pricing power. If they are leaving because "The new UI update ruined the workflow," the incumbent is vulnerable to a UX-focused usurpation.
+3.  **The Ecosystem Gravity Test:** Check the partner directories. Are consulting agencies actively building their entire business models around implementing the incumbent's software? If the 'Consultant Economy' has locked in, you are very late.
+
+## 6. Risks, Counterarguments, and Uncertainty
+**Adversarial Review:**
+1.  *The Irrationality of Macroeconomics:* You can execute perfectly flawless timing analysis on a specialized B2B software category, only for the Federal Reserve to alter interest rates, instantly collapsing Enterprise tech budgets across the globe. Public signaling analysis assumes a stable macro-environment, which is fundamentally a hallucination.
+2.  *The 'Stealth' Disruption:* Public evidence only reveals what incumbents *want* the public to see. A massive incumbent (like Google or Amazon) may be quietly assigning 500 elite engineers to internally build a feature that will permanently obliterate your category in 6 months, generating absolutely zero public signals or hiring footprints before launch.
+3.  *The 'False Maturity' Trap:* A category can look totally mature, heavily commoditized, and "Too Late" (e.g., the CRM market in 2010), right up until a fundamental paradigm shift in technology (e.g., the shift to Mobile, or the shift to LLMs) instantly resets the entire timing clock back to zero. Assuming a calcified market stays calcified is a dangerous bet.
+
+## 7. Final Recommendations
+A strategic founder must divorce their concept of "Timing" from their personal enthusiasm for the product. Timing is cold, structural calculus. Do not ask customers if they want the product; measure the specific vocabulary the incumbents are using to defend their territory. If the incumbents look young, fast, and aggressive, you are late to the early-adopter phase. If the incumbents look massive, slow, bureaucratic, and highly defensive of their Enterprise contracts, you have arrived perfectly on time to launch a surgical, asymmetrical strike against their most disgruntled, over-charged user segment. Trust the exhaustion of the market, not the hype.
+
+## 8. Source List
+*   Carlota Perez "Technological Revolutions and Financial Capital" regarding the deployment phases of new technologies.
+*   Gartner's Hype Cycle methodology and the transition from Peak of Inflated Expectations to the Plateau of Productivity.
+*   Wayback Machine historical analyses of positioning shifts in major SaaS companies (e.g., Slack's shift from "Team Chat" to "Digital HQ").

@@ -1,0 +1,15 @@
+focus on the market-strategy folder. each file in the folder contains a series of individual deep research prompts. for   
+   each file work your way through conducting the deep research for each individual prompt and returning it's respective
+   deliverables in the format of markdown files. If there are any prompts that ask you to research and or anyalyze our specific    
+   products, business identity or services, disregard that individual prompt and move on to the next.The response to each query with each prompt should at least be a fullly fleshed out paragragh, so don't give one sentence responses. Save the resulting
+   deliverables from the research in the 'research-artifacts' folder and logically organize them within folders named with no more 
+   than three words, all in lower case, seperated by dashes. each folder should contain no more than 10 folders. If it makes sense 
+   to place files into collections of subfolders that may be acceptable but there must be on more that one nested subfolder layer  
+   within each folder. Once the research of all of the prompts contained within a file are completed and the respective
+   deliverables are saved, append to the front of the name of that file '[c]' to connotate that that research is complete. once    
+   all of the research for all of the files within a folder are complete, append '[c]' to the front of the name of that folder to  
+   connotate that all of the research contained within that folder is completed. do not use numbers whether numerical or text to enumerate the files because the files will not be organized by number. Once a folder is connoted as complete. move that  
+   folder and all of it's files into the executed prompts folder. if you need to create a plan or a context harness to keep track  
+   of your tasks, create a unique file id in the format of [AA-04] so that you can reference the file, and place the documents in  
+   the respective folders plans or harnesses contained within the Plans-&-harnesses folder. respond briefly to confirm if you      
+   understand your objective.
